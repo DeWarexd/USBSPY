@@ -139,9 +139,3 @@ Once the process is completed successfully, the following message will be sent t
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## **Contributing** 🤝
-
-Feel free to contribute to the project! You can fork the repository and make your changes. Pull requests are welcome.
-
----
